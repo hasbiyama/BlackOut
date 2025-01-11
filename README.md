@@ -1,6 +1,8 @@
 # BlackOut
 a small rootkit dealing with file operations, dse, and process protection
 
+> **Target**: Any version/build of Windows 8.1, 10 and 11. 
+
 ## Overview
 1. Utilise minifilter for file ops on IRP_MJ_DIRECTORY_CONTROL
    - 2 FLT_PREOP_CALLBACK_STATUS (1 IRP_MJ_CREATE on its Callbacks)
