@@ -1,0 +1,8 @@
+﻿  Building 'BlackOut' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  dBlackOut.c
+  BlackOut.vcxproj -> C:\Users\hasbinr\Desktop\BlackOut\x64\Debug\BlackOut.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\hasbinr\Desktop\BlackOut\x64\Debug\BlackOut.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
